@@ -1,2 +1,2 @@
 # MachineLearningAPP-Streamlit-
-12APPS
+Applications created with Streamlit library of python ( Web Applications )
